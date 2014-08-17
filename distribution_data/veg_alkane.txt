@@ -1,0 +1,15 @@
+	23	24	25	26	27	28	29	30	31	32	33
+Z.cinnamomum	1	3	2	2	2	1	10	2	44	5	29
+Buchenaviasp.	0	1	0	1	1	4	28	2	53	3	6
+C.chrysocalyx	1	2	1	2	3	3	51	4	26	2	5
+E.falcata	0	1	0	1	2	1	12	2	55	5	22
+Sloaneasp.	0	1	0	1	1	1	30	3	50	3	9
+C.cuneifolium	0	1	0	0	2	0	36	1	40	1	17
+P.nitidifolium	0	1	1	1	1	1	12	3	61	5	14
+Protiumsp.	0	2	1	2	6	4	29	5	39	6	6
+Unidentified_1	0	1	0	1	1	1	33	3	47	3	9
+Unidentified_2	0	3	0	2	1	2	60	5	26	1	0
+WalkwayLeafLitter	0	1	0	0	1	1	37	3	46	3	8
+P.geyskeii	8	7	13	4	13	0	21	0	29	0	5
+Myrciasp.	0	1	0	1	1	1	68	3	23	0	1
+S.cyperina	1	1	11	1	33	1	32	1	18	0	2
